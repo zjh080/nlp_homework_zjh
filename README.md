@@ -1,6 +1,6 @@
 # 喜羊羊的自我介绍
 
-<img src = "https://github.com/zjh080/nlp_homework_zjh/blob/master/img.jpg" width="200" alt=喜羊羊形象>
+<img src = "img.jpg" width="200" alt=喜羊羊形象>
 
 大家好，我是喜羊羊，我的身份是*羊村村民*,以下是我的自我介绍：
 
@@ -53,7 +53,7 @@
 
 我最喜欢的环境是conda   
 “01环境搭建的截图一"   
-<img src1 = "https://github.com/zjh080/nlp_homework_zjh/blob/master/img1.png" width=“800” alt=截图一>  
+<img src = "img1.png" width=“800” alt=截图一>  
 我可以在IDE上使用我建立的虚拟环境   
 "01环境搭建的截图二"  
-<img src2 = "https://github.com/zjh080/nlp_homework_zjh/blob/master/img2.png" width=“800” alt = 截图二>
+<img src = "img2.png" width=“800” alt = 截图二>
