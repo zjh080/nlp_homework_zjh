@@ -53,7 +53,7 @@
 
 我最喜欢的环境是conda   
 “01环境搭建的截图一"   
-<img src = "img1.png" width=“800” alt=截图一>  
+<img src = "img1.png" width=“800” alt=截图1>  
 我可以在IDE上使用我建立的虚拟环境   
 "01环境搭建的截图二"  
-<img src = "img2.png" width=“800” alt = 截图二>
+<img src = "img2.png" width=“800” alt = 截图2>
